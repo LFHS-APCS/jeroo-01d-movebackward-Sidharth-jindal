@@ -8,7 +8,7 @@ public class Jeroo extends JerooBase {
   turn(LEFT);
   turn(LEFT);
 }
-public void movebackward(){
+public void moveBackward(){
   turnaround();
   hop();
   turnaround();
